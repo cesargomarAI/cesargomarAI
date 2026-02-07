@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Cesar! 👋 
 
-<!--
-**cesargomarAI/cesargomarAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cesargomarAI/pdac-diagnostic-system/main/logo.png" width="250">
+</p>
 
-Here are some ideas to get you started:
+## 🚀 Applied AI Engineer | MedTech Innovator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in bridge the gap between complex AI models and real-world applications. My focus is on creating tools that make a difference in healthcare.
+
+### 🛠️ Featured Project: PDAC Diagnostic System
+An AI-powered system designed for the early detection of Pancreatic Adenocarcinoma using liquid biopsy data.
+* **Live App:** [Click here to test it!](https://pdac-diagnostic-system-7jyt3cxbcaqwmravjnog5b.streamlit.app/)
+* **Tech Stack:** Python, Scikit-learn, Streamlit, Plotly.
+
+---
+
+### 📬 Connect with me:
+* **GitHub:** You are already here!
+* **Status:** Open to collaboration on AI & Healthcare projects.
+
+<p align="right">
+  <i>"Transforming data into medical insights."</i>
+</p>
