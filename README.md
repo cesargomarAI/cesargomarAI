@@ -1,7 +1,7 @@
 # Hi there, I'm Cesar! 👋 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cesargomarAI/pdac-diagnostic-system/main/logo.png" width="250">
+  <img src="https://github.com/cesargomarAI/pdac-diagnostic-system/blob/main/logo.png?raw=true" width="250">
 </p>
 
 ## 🚀 Applied AI Engineer | MedTech Innovator
